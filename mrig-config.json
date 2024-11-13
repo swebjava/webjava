@@ -1,0 +1,8 @@
+{
+  "pool": "stratum+tcp://sg.salvium.herominers.com:1230",
+  "user": "zoro",
+  "pass": "x", 
+  "algo": "rx/0",  # Algoritma rx/0 untuk RandomX
+  "wallet": "SaLvs81742UDV2EZt4dqPDg5ymyARgLdT3zX5xCrskf5dm7LsKZqGKGdMhLo76FQUGdgtv3j6Sfb8JzWC1Mx1jADFfQzehomN2A",
+  "threads": 4
+}
